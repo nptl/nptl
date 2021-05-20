@@ -1,5 +1,5 @@
 👋 Hi, I’m @nptl
-👀 I’m interested in health and education
-🌱 I’m currently learning python
-💞️ I’m looking to collaborate on blockchain
-📫 You can reach me at nirajpatel90@gmail.com
+👀 Interested in health and education
+🌱 Currently learning python
+💞️ Looking to collaborate on blockchain
+📫 Find me on twitter @nptl90
